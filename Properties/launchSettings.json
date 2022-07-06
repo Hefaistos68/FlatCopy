@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "FlatCopy": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Downloaded Web Sites\\www.ilhadoprazer.com.br\\*.jpg\" \\temp\\test /c /r",
+      "workingDirectory": "C:\\Downloaded Web Sites\\www.ilhadoprazer.com.br"
+    },
+    "FlatCopy /U /M": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Downloaded Web Sites\\www.ilhadoprazer.com.br\\*.jpg\" \\temp\\test /U",
+      "workingDirectory": "C:\\Downloaded Web Sites\\www.ilhadoprazer.com.br"
+    },
+    "FlatCopy path test": {
+      "commandName": "Project",
+      "commandLineArgs": "*.jpg \\temp\\test",
+      "workingDirectory": "C:\\Downloaded Web Sites\\www.ilhadoprazer.com.br"
+    }
+  }
+}
