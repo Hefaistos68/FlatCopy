@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlatCopy": {
+      "commandName": "Project",
+      "commandLineArgs": "*.jpg \\temp\\test /c /r"
+    }
+  }
+}
